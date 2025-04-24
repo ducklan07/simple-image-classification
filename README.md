@@ -69,5 +69,5 @@ Open `main.ipynb` in Jupyter Notebook or VS Code and run the cells in order.
 ---
 
 **Author:**  
-Your Name  
+Declan Ng
 2025
